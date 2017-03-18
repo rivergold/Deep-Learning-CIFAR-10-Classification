@@ -1,0 +1,8 @@
+# PyTorch
+CIFAR-10-pytorch/database/CIFAR-10-Test.pkl
+CIFAR-10-pytorch/database/CIFAR-10-Train.pkl
+CIFAR-10-pytorch/database/CIFAR_10-Label-Names.pkl
+# Keras
+CIFAR-10-keras/database/CIFAR-10-Test.pkl
+CIFAR-10-keras/database/CIFAR-10-Train.pkl
+CIFAR-10-keras/database/CIFAR_10-Label-Names.pkl
